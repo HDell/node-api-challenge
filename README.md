@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+- Express is a library used to easily build web applications. Express is made more flexible with routing and middleware.   
+
 - [ ] Describe Middleware?
 
+
+- A middleware is a software implementation that gets that called in the middle of some other implementation. FOr example, a middleware can mutate an object before it arrives at a final method.
 - [ ] Describe a Resource?
+
+- A resource is data that gets sent to or from a server via HTTP protocols.
 
 - [ ] What can the API return to help clients know if a request was successful?
 
+- A status code (2xx).
+
 - [ ] How can we partition our application into sub-applications?
+
+- An app can be partitioned into sub-apps via routers.
 
 ## Minimum Viable Product
 
